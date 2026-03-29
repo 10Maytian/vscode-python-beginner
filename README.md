@@ -1,13 +1,33 @@
-# VS Code Python Beginner
+# Project Title
 
-这个文件夹是给 VS Code 和 Python 新手准备的最小练习项目。
+## Overview
+Brief description of what this project is about.
 
-文件说明：
+## Concept
+What idea are you exploring? (emotion, interaction, system, behavior, body, data, etc.)
 
-- `hello.py`：第一个 Python 程序
+## Tools
+- Processing / p5.js / Python / Arduino / ml5.js (choose what you used)
 
-在终端中运行：
+## How it works
+Explain the mechanism in simple steps:
+- Input
+- Process
+- Output
 
-```bash
-python3 hello.py
-```
+## Interaction
+How does the user interact with it?
+
+## Outcome
+What does the system produce? (visual / sound / physical movement / data)
+
+## Reflection
+- What worked well?
+- What was difficult?
+- What did you learn?
+- What would you improve next time?
+
+## Media
+Add images, GIFs, or video links here:
+- screenshots/
+- final video link
